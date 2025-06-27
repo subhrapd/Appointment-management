@@ -1,0 +1,11 @@
+appointment_id,patient_name,doctor_name,department,fees,appointment_date
+1,"Isabella Lewis","Dr. Taylor",Orthopedics,600.00,2024-04-09
+2,"Henry Clark","Dr. Lee",Dermatology,550.00,2024-04-08
+3,"Grace Martin","Dr. Johnson",Neurology,1100.00,2024-04-07
+4,"Brian White","Dr. Johnson",Neurology,1300.00,2024-04-02
+5,"Catherine Black","Dr. Lee",Dermatology,580.00,2024-04-03
+6,"Liam Scott","Dr. Anderson",Cardiology,1350.00,2024-04-11
+7,"Mia Robinson","Dr. Taylor",Orthopedics,700.00,2024-04-12
+8,"Noah Walker","Dr. Johnson",Neurology,1500.00,2024-04-13
+9,"Sophia Young","Dr. Wilson",Pediatrics,480.00,2024-04-15
+10,"Ethan Nelson","Dr. Wilson",Pediatrics,500.00,2024-04-20
